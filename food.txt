@@ -1,0 +1,3 @@
+turkey 20.80
+pie 7.4
+stuffing 2.68
